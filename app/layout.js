@@ -1,4 +1,5 @@
-import './globals.css'
+//import './globals.css'//fix: correct css import path
+import '../styles/globals.css'
 
 export const metadata = {
   title: 'SSI — Soil & Silicon Initiative',
