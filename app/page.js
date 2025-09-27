@@ -1,5 +1,7 @@
 import Link from 'next/link'
-import { getAllPosts } from './lib/posts'
+//import { getAllPosts } from './lib/posts'fix: posts import path//
+import { getAllPosts } from '../lib/posts'
+
 
 export default function Home() {
   const posts = getAllPosts()
