@@ -1,12 +1,13 @@
+
 ---
-title: Catfish Feed Ratios: Stop Overfeeding
-date: 2025-09-10
-description: Simple, scalable feeding schedules for Nigerian weather.
+title: Start Mushrooms with ₦50k: A 30-Day Plan
+date: 2025-09-27
+description: A practical 30-day roadmap to start mushroom farming in Nigeria on a budget.
 ---
 
-Feeding your catfish correctly saves money and increases survival rates. In this guide we explain a simple schedule you can follow based on fish size and pond temperature.
+Starting mushrooms can be affordable and fast if you follow a lean plan.
 
-## Starter tips
+## Day 1–7: Prepare your substrate
+- Step 1: Acquire substrate.
+- Step 2: Pasteurize.
 
-- Check water quality weekly.
-- Adjust feed according to growth rate.
